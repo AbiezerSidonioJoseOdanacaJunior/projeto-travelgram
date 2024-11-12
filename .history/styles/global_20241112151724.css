@@ -15,6 +15,6 @@
 }
 
 body {
-    color: var(--text-color-primary);
+    color: red;
     background-color: var(--backgoround-clor);
 }

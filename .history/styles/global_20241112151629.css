@@ -15,6 +15,5 @@
 }
 
 body {
-    color: var(--text-color-primary);
-    background-color: var(--backgoround-clor);
+    color: var(--text-color-primary)
 }
