@@ -1,0 +1,8 @@
+nnav{
+    display: flex;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
