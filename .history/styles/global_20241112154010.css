@@ -23,5 +23,9 @@
 body {
     color: var(--text-color-primary);
     background-color: var(--backgoround-clor);
-    font: var(--text);
+}
+
+p{
+    font-family: var(--font-family)
+    font-size: 50px
 }

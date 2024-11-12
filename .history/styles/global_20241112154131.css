@@ -23,5 +23,5 @@
 body {
     color: var(--text-color-primary);
     background-color: var(--backgoround-clor);
-    font: var(--text);
+    font-family: var(--text-lg);
 }
