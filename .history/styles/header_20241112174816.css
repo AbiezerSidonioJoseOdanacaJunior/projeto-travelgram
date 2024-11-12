@@ -1,0 +1,16 @@
+header {
+    padding-block: 32px;
+}
+
+#profile {
+    display: flex;
+    gap: 32px;
+}
+
+
+
+#pfofile h1 {
+    font: var(--text-lg);
+    color: var(--text-color-primary);
+    margin-bottom: 15px;
+}
